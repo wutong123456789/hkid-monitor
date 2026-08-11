@@ -3,6 +3,17 @@
     {
       "office": "RTK",
       "name_zh": "将军澳",
+      "date": "2026-10-17",
+      "old_status": "r",
+      "new_status": "y",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-08-11T15:07:04.557395+08:00"
+    },
+    {
+      "office": "RTK",
+      "name_zh": "将军澳",
       "date": "2026-10-06",
       "old_status": "r",
       "new_status": "y",
@@ -2181,17 +2192,6 @@
     {
       "office": "FTO",
       "name_zh": "火炭",
-      "date": "2026-09-29",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "notice",
-      "time": "2026-08-08T16:28:19.867983+08:00"
-    },
-    {
-      "office": "RHK",
-      "name_zh": "湾仔",
       "date": "2026-09-29",
       "old_status": "r",
       "new_status": "y",
