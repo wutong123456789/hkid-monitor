@@ -1,6 +1,17 @@
 {
   "events": [
     {
+      "office": "RKO",
+      "name_zh": "长沙湾",
+      "date": "2026-10-30",
+      "old_status": "r",
+      "new_status": "y",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-08-20T12:10:51.443529+08:00"
+    },
+    {
       "office": "RTK",
       "name_zh": "将军澳",
       "date": "2026-10-20",
@@ -2182,17 +2193,6 @@
       "office": "RTK",
       "name_zh": "将军澳",
       "date": "2026-10-15",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "regular",
-      "time": "2026-08-18T10:06:38.225354+08:00"
-    },
-    {
-      "office": "RHK",
-      "name_zh": "湾仔",
-      "date": "2026-10-16",
       "old_status": "r",
       "new_status": "y",
       "session": "R",
