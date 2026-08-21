@@ -1,6 +1,50 @@
 {
   "events": [
     {
+      "office": "RTK",
+      "name_zh": "将军澳",
+      "date": "2026-10-26",
+      "old_status": "r",
+      "new_status": "y",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-08-21T23:24:00.972807+08:00"
+    },
+    {
+      "office": "TMO",
+      "name_zh": "屯门",
+      "date": "2026-10-26",
+      "old_status": "r",
+      "new_status": "y",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-08-21T23:24:00.972807+08:00"
+    },
+    {
+      "office": "TMO",
+      "name_zh": "屯门",
+      "date": "2026-10-27",
+      "old_status": "r",
+      "new_status": "y",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-08-21T23:24:00.972807+08:00"
+    },
+    {
+      "office": "FTO",
+      "name_zh": "火炭",
+      "date": "2026-10-28",
+      "old_status": "r",
+      "new_status": "y",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-08-21T23:24:00.972807+08:00"
+    },
+    {
       "office": "YLO",
       "name_zh": "元朗",
       "date": "2026-10-15",
@@ -2149,50 +2193,6 @@
       "office": "TMO",
       "name_zh": "屯门",
       "date": "2026-10-05",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "notice",
-      "time": "2026-08-18T16:55:16.720556+08:00"
-    },
-    {
-      "office": "YLO",
-      "name_zh": "元朗",
-      "date": "2026-10-05",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "notice",
-      "time": "2026-08-18T16:55:16.720556+08:00"
-    },
-    {
-      "office": "RHK",
-      "name_zh": "湾仔",
-      "date": "2026-10-06",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "notice",
-      "time": "2026-08-18T16:55:16.720556+08:00"
-    },
-    {
-      "office": "RTK",
-      "name_zh": "将军澳",
-      "date": "2026-10-06",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "notice",
-      "time": "2026-08-18T16:55:16.720556+08:00"
-    },
-    {
-      "office": "YLO",
-      "name_zh": "元朗",
-      "date": "2026-10-06",
       "old_status": "r",
       "new_status": "y",
       "session": "R",
