@@ -1,6 +1,61 @@
 {
   "events": [
     {
+      "office": "RTK",
+      "name_zh": "将军澳",
+      "date": "2026-11-03",
+      "old_status": "r",
+      "new_status": "y",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-08-29T10:25:31.817239+08:00"
+    },
+    {
+      "office": "RTK",
+      "name_zh": "将军澳",
+      "date": "2026-11-04",
+      "old_status": "r",
+      "new_status": "y",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-08-29T10:25:31.817239+08:00"
+    },
+    {
+      "office": "FTO",
+      "name_zh": "火炭",
+      "date": "2026-11-05",
+      "old_status": "r",
+      "new_status": "y",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-08-29T10:25:31.817239+08:00"
+    },
+    {
+      "office": "RHK",
+      "name_zh": "湾仔",
+      "date": "2026-11-05",
+      "old_status": "r",
+      "new_status": "y",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-08-29T10:25:31.817239+08:00"
+    },
+    {
+      "office": "RKO",
+      "name_zh": "长沙湾",
+      "date": "2026-12-23",
+      "old_status": "r",
+      "new_status": "g",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-08-29T10:25:31.817239+08:00"
+    },
+    {
       "office": "RHK",
       "name_zh": "湾仔",
       "date": "2026-10-28",
@@ -2140,61 +2195,6 @@
       "date": "2026-11-02",
       "old_status": "y",
       "new_status": "g",
-      "session": "R",
-      "session_label": "一般",
-      "level": "regular",
-      "time": "2026-08-26T11:37:09.550228+08:00"
-    },
-    {
-      "office": "FTO",
-      "name_zh": "火炭",
-      "date": "2026-11-03",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "regular",
-      "time": "2026-08-26T11:37:09.550228+08:00"
-    },
-    {
-      "office": "RKO",
-      "name_zh": "长沙湾",
-      "date": "2026-11-03",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "regular",
-      "time": "2026-08-26T11:37:09.550228+08:00"
-    },
-    {
-      "office": "TMO",
-      "name_zh": "屯门",
-      "date": "2026-11-03",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "regular",
-      "time": "2026-08-26T11:37:09.550228+08:00"
-    },
-    {
-      "office": "RKO",
-      "name_zh": "长沙湾",
-      "date": "2026-11-04",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "regular",
-      "time": "2026-08-26T11:37:09.550228+08:00"
-    },
-    {
-      "office": "RKO",
-      "name_zh": "长沙湾",
-      "date": "2026-11-05",
-      "old_status": "r",
-      "new_status": "y",
       "session": "R",
       "session_label": "一般",
       "level": "regular",
