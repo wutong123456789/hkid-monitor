@@ -1,6 +1,17 @@
 {
   "events": [
     {
+      "office": "TMO",
+      "name_zh": "屯门",
+      "date": "2026-11-24",
+      "old_status": "r",
+      "new_status": "y",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-10-11T14:34:51.984165+08:00"
+    },
+    {
       "office": "RTK",
       "name_zh": "将军澳",
       "date": "2026-10-12",
@@ -2181,17 +2192,6 @@
     {
       "office": "FTO",
       "name_zh": "火炭",
-      "date": "2026-11-17",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "regular",
-      "time": "2026-10-07T13:43:05.842938+08:00"
-    },
-    {
-      "office": "RHK",
-      "name_zh": "湾仔",
       "date": "2026-11-17",
       "old_status": "r",
       "new_status": "y",
