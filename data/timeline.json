@@ -3,6 +3,17 @@
     {
       "office": "RTK",
       "name_zh": "将军澳",
+      "date": "2026-11-23",
+      "old_status": "r",
+      "new_status": "y",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-10-17T19:45:12.425442+08:00"
+    },
+    {
+      "office": "RTK",
+      "name_zh": "将军澳",
       "date": "2026-10-20",
       "old_status": "r",
       "new_status": "y",
@@ -2181,17 +2192,6 @@
     {
       "office": "RHK",
       "name_zh": "湾仔",
-      "date": "2026-11-10",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "regular",
-      "time": "2026-10-13T11:14:03.150945+08:00"
-    },
-    {
-      "office": "RTK",
-      "name_zh": "将军澳",
       "date": "2026-11-10",
       "old_status": "r",
       "new_status": "y",
