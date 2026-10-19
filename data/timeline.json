@@ -1,6 +1,28 @@
 {
   "events": [
     {
+      "office": "FTO",
+      "name_zh": "火炭",
+      "date": "2026-12-01",
+      "old_status": "r",
+      "new_status": "y",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-10-19T14:35:40.863572+08:00"
+    },
+    {
+      "office": "FTO",
+      "name_zh": "火炭",
+      "date": "2026-12-04",
+      "old_status": "y",
+      "new_status": "g",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-10-19T14:35:40.863572+08:00"
+    },
+    {
       "office": "YLO",
       "name_zh": "元朗",
       "date": "2026-11-05",
@@ -2171,28 +2193,6 @@
       "office": "RKO",
       "name_zh": "长沙湾",
       "date": "2026-11-07",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "regular",
-      "time": "2026-10-13T11:14:03.150945+08:00"
-    },
-    {
-      "office": "TMO",
-      "name_zh": "屯门",
-      "date": "2026-11-07",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "regular",
-      "time": "2026-10-13T11:14:03.150945+08:00"
-    },
-    {
-      "office": "FTO",
-      "name_zh": "火炭",
-      "date": "2026-11-09",
       "old_status": "r",
       "new_status": "y",
       "session": "R",
