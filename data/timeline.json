@@ -3,6 +3,39 @@
     {
       "office": "RKO",
       "name_zh": "长沙湾",
+      "date": "2026-12-02",
+      "old_status": "r",
+      "new_status": "y",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-11-01T17:37:04.691704+08:00"
+    },
+    {
+      "office": "YLO",
+      "name_zh": "元朗",
+      "date": "2026-12-03",
+      "old_status": "r",
+      "new_status": "y",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-11-01T17:37:04.691704+08:00"
+    },
+    {
+      "office": "RKO",
+      "name_zh": "长沙湾",
+      "date": "2026-12-21",
+      "old_status": "y",
+      "new_status": "g",
+      "session": "R",
+      "session_label": "一般",
+      "level": "regular",
+      "time": "2026-11-01T17:37:04.691704+08:00"
+    },
+    {
+      "office": "RKO",
+      "name_zh": "长沙湾",
       "date": "2026-11-27",
       "old_status": "r",
       "new_status": "y",
@@ -2166,39 +2199,6 @@
       "session_label": "一般",
       "level": "regular",
       "time": "2026-10-23T09:49:54.154466+08:00"
-    },
-    {
-      "office": "RHK",
-      "name_zh": "湾仔",
-      "date": "2026-12-12",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "regular",
-      "time": "2026-10-23T09:49:54.154466+08:00"
-    },
-    {
-      "office": "RKO",
-      "name_zh": "长沙湾",
-      "date": "2026-12-19",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "regular",
-      "time": "2026-10-23T09:49:54.154466+08:00"
-    },
-    {
-      "office": "RKO",
-      "name_zh": "长沙湾",
-      "date": "2026-11-04",
-      "old_status": "r",
-      "new_status": "y",
-      "session": "R",
-      "session_label": "一般",
-      "level": "regular",
-      "time": "2026-10-22T20:20:24.209262+08:00"
     }
   ]
 }
